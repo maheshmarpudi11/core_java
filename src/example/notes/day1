@@ -1,0 +1,14 @@
+1. Create Product class and fields (name,desc,count,price) 
+	- default const, all arg const , setter and getter methods.
+	
+2. Created one UITest class, created main method
+	- created instance and added values using (setter and getter / constructor ) to that product and print those values
+
+3. Create ProductService class 
+	- createProduct methods print product details using syso
+
+4. static varables and methods in same class 
+
+5. create static method and call instance methods from static method.
+
+6. create instance method and call static method from instance method.
